@@ -1,0 +1,5 @@
+Automated Plant Health Insights
+-------------------------------
+Most common plant condition: Healthy 
+Percentage of healthy plants: 33 %
+Most influential environmental factor: temperature 
