@@ -1,0 +1,3 @@
+Most frequent plant condition: High Stress
+Highest temperature observed in: Moderate Stress
+Lowest light levels observed in: Healthy
